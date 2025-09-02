@@ -10,6 +10,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>Example</module>
+      <module>Mykhailo_Kasiian_module</module>
   </modules>
 
   <properties>
